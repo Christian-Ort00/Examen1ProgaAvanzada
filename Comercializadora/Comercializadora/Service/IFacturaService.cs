@@ -6,6 +6,6 @@ namespace Comercializadora.Service
         public void AgregarFactura(Factura factura);
         public List<Factura> ObtenerFacturas();
 
-
+        public void CalcularTotales(int facturaId);
     }
 }

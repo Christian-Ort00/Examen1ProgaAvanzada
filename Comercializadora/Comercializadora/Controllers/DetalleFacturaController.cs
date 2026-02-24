@@ -17,21 +17,28 @@ namespace Comercializadora.Controllers
         }
 
         [HttpGet]
-        public IActionResult Crear()
+        public IActionResult Crear(int id)
         {
             ViewBag.Productos = _productoService.ObtenerProductos();
-            return View();
+            var detalle = new DetalleFactura
+            {
+                FacturaId = id
+            };  
+            return View(detalle);
         }
 
         [HttpPost]
         public IActionResult Crear(DetalleFactura detalle)
         {
+            ModelState.Remove("Factura");
+            ModelState.Remove("NombreProducto");
+            ModelState.Remove("PrecioUnitario");
+
             if (ModelState.IsValid)
             {
                 _detalleFacturaService.AgregarDetalle(detalle);
                 return RedirectToAction("Index", "Factura");
             }
-
             ViewBag.Productos = _productoService.ObtenerProductos();
             return View(detalle);
         }

@@ -28,11 +28,13 @@ namespace Comercializadora.Service
             {
                 FacturaId = factura.Id,
                 ProductoId = producto.Id,
+                NombreProducto = producto.Nombre,
                 Cantidad = detalle.Cantidad,
                 PrecioUnitario = producto.Precio,
             };
 
-            _detalleFacturaRepository.agregarDetalle(detalle);
+            _detalleFacturaRepository.agregarDetalle(detalleExistente);
+            _facturaService.CalcularTotales(detalle.FacturaId);
 
 
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\Progra\\Comercializadora\\Comercializadora\\Comercializadora.csproj": {}
+    "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Comercializadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\Progra\\Comercializadora\\Comercializadora\\Comercializadora.csproj": {
+    "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Comercializadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Progra\\Comercializadora\\Comercializadora\\Comercializadora.csproj",
+        "projectUniqueName": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Comercializadora.csproj",
         "projectName": "Comercializadora",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\Progra\\Comercializadora\\Comercializadora\\Comercializadora.csproj",
+        "projectPath": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Comercializadora.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\Progra\\Comercializadora\\Comercializadora\\obj\\",
+        "outputPath": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

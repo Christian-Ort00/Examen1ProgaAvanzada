@@ -9,6 +9,7 @@ namespace Comercializadora.Repository
 
         public void AgregarProducto(Producto producto)
         {
+            producto.Id = productos.Count + 1; 
             productos.Add(producto);
         }
 

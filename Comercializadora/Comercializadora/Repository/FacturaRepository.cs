@@ -8,6 +8,7 @@ namespace Comercializadora.Repository
 
         public void AgregarFactura(Factura factura)
         {
+            factura.Id = facturas.Count + 1; 
             facturas.Add(factura);
         }
 
