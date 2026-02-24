@@ -1,0 +1,38 @@
+﻿@model Comercializadora.Models.DetalleFactura
+
+@{
+    ViewData["Title"] = "Crear Detalle";
+}
+
+<h2 class="mb-3">Agregar Detalle a Factura</h2>
+
+<form asp-action="Crear" method="post" class="row g-3">
+    <div class="col-md-6">
+        <label asp-for="FacturaId" class="form-label">Número de Factura</label>
+        <input asp-for="FacturaId" class="form-control" type="number" />
+        <span asp-validation-for="FacturaId" class="text-danger"></span>
+    </div>
+
+    <div class="col-md-6">
+        <label class="form-label">Producto</label>
+        <select asp-for="ProductoId" class="form-select">
+            <option value="">-- Seleccione un producto --</option>
+            @foreach (var producto in ViewBag.Productos)
+            {
+                <option value="@producto.Id">@producto.Nombre (@producto.Precio)</option>
+            }
+        </select>
+        <span asp-validation-for="ProductoId" class="text-danger"></span>
+    </div>
+
+    <div class="col-md-6">
+        <label asp-for="Cantidad" class="form-label">Cantidad</label>
+        <input asp-for="Cantidad" class="form-control" type="number" min="1" />
+        <span asp-validation-for="Cantidad" class="text-danger"></span>
+    </div>
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Guardar</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+    </div>
+</form>

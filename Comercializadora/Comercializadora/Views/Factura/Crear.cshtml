@@ -1,0 +1,41 @@
+﻿@model Comercializadora.Models.Factura
+
+@{
+    ViewData["Title"] = "Crear Factura";
+}
+
+<h2 class="mb-3">Crear Factura</h2>
+
+<form asp-action="Crear"
+      method="post"
+      enctype="multipart/form-data"
+      class="row g-3">
+
+      <div class="col-md-6">
+        <label asp-for="Id" class="form-label"></label>
+        <input asp-for="Id" class="form-conatrol" />
+        <span asp-validation-for="Id" class="text-danger"></span>
+    </div
+
+    <div class="col-md-6">
+        <label asp-for="NombreCliente" class="form-label"></label>
+        <input asp-for="NombreCliente" class="form-control" />
+        <span asp-validation-for="NombreCliente" class="text-danger"></span>
+    </div>
+
+    <div class="col-md-6">
+        <label asp-for="Fecha" class="form-label"></label>
+        <input asp-for="Fecha" class="form-control" />
+        <span asp-validation-for="Fecha" class="text-danger"></span>
+    </div>
+
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">
+            Guardar
+        </button>
+        <a asp-action="Index" class="btn btn-secondary">
+            Cancelar
+        </a>
+    </div>
+</form>
