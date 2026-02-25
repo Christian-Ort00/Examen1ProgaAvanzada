@@ -8,7 +8,10 @@ namespace Comercializadora.Service
     {
         public void AgregarDetalle(DetalleFactura detalle);
 
+        
         public List<DetalleFactura> ObtenerDetalles();
+        
+        public List<DetalleFactura> ObtenerDetallesPorFactura(int facturaId);
 
     }
 }

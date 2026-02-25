@@ -1,0 +1,52 @@
+﻿@model Comercializadora.Models.Factura
+@{
+    ViewData["Title"] = "Detalle de Factura";
+}
+
+<h2>Factura #@Model.Id</h2>
+<p><strong>Cliente:</strong> @Model.NombreCliente</p>
+<p><strong>Fecha:</strong> @Model.Fecha.ToString("dd/MM/yyyy")</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Producto</th>
+            <th>Cantidad</th>
+            <th>Precio Unitario</th>
+            <th>Subtotal</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int i = 1;
+            foreach (var detalle in ViewBag.Detalles)
+            {
+                <tr>
+                    <td>@i</td>
+                    <td>@detalle.NombreProducto</td>
+                    <td>@detalle.Cantidad</td>
+                    <td>@detalle.PrecioUnitario</td>
+                    <td>@(detalle.Cantidad* detalle.PrecioUnitario)</td>
+                </tr>
+                i++;
+            }
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="4"><strong>Subtotal:</strong></td>
+            <td>@Model.Subtotal</td>
+        </tr>
+        <tr>
+            <td colspan="4"><strong>Impuesto (13%):</strong></td>
+            <td>@Model.Impuesto</td>
+        </tr>
+        <tr>
+            <td colspan="4"><strong>Total:</strong></td>
+            <td>@Model.Total</td>
+        </tr>
+    </tfoot>
+</table>
+
+<a asp-action="Index" class="btn btn-secondary">Volver</a>

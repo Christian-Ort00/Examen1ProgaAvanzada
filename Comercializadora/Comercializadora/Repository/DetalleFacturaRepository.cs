@@ -18,5 +18,10 @@ namespace Comercializadora.Repository
         {
             return detalles;
         }
+
+        public List<DetalleFactura> ObtenerDetallesPorFactura(int facturaId)
+        {
+            return detalles.Where(d => d.FacturaId == facturaId).ToList();  
+        }
     }
 }

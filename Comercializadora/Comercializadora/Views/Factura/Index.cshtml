@@ -39,6 +39,18 @@
                        class="btn btn-primary btn-sm">
                          Agregar Producto
                     </a>
+                    <a asp-controller="Factura"
+                       asp-action="Detalle"
+                       asp-route-id="@factura.Id"
+                       class="btn btn-info btn-sm">
+                        Ver Detalle
+                    </a>
+                    <a asp-controller="Factura"
+                       asp-action="DescargarTxt"
+                       asp-route-id="@factura.Id"
+                       class="btn btn-success btn-sm">
+                        Descargar TXT
+                    </a>
                 </td>
             </tr>
         }

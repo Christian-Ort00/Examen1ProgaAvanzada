@@ -3,24 +3,68 @@
   "WorkspaceRootPath": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\controllers\\detallefacturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\controllers\\detallefacturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\repository\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\repository\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\service\\idetallefacturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\service\\idetallefacturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\service\\detallefacturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\service\\detallefacturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\views\\factura\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\views\\factura\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\views\\factura\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\views\\factura\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\views\\factura\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\views\\factura\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\repository\\detallefacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\repository\\detallefacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\repository\\idetallefacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\repository\\idetallefacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\repository\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\repository\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\service\\detallefacturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\service\\detallefacturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\repository\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\repository\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\views\\detallefactura\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\views\\detallefactura\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\repository\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\repository\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\service\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,28 +75,12 @@
       "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\service\\ifacturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\views\\detallefactura\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\views\\detallefactura\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\views\\factura\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\views\\factura\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\views\\producto\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\views\\producto\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\repository\\detallefacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\repository\\detallefacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\views\\factura\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\views\\factura\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\service\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,14 +95,6 @@
       "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -83,24 +103,8 @@
       "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\repository\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\repository\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\service\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\service\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\service\\idetallefacturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\service\\idetallefacturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\repository\\idetallefacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|solutionrelative:comercializadora\\repository\\idetallefacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94463931-0E8D-9244-FCE6-252DDA130E0A}|Comercializadora\\Comercializadora.csproj|c:\\projects\\examen1progaavanzada\\comercializadora\\comercializadora\\comercializadora.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -114,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,7 +126,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "Detalle.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Views\\Factura\\Detalle.cshtml",
+              "RelativeDocumentMoniker": "Comercializadora\\Views\\Factura\\Detalle.cshtml",
+              "ToolTip": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Views\\Factura\\Detalle.cshtml",
+              "RelativeToolTip": "Comercializadora\\Views\\Factura\\Detalle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwDMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-25T04:35:38.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Crear.cshtml",
               "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Views\\Factura\\Crear.cshtml",
               "RelativeDocumentMoniker": "Comercializadora\\Views\\Factura\\Crear.cshtml",
@@ -135,13 +152,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Crear.cshtml",
               "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Views\\DetalleFactura\\Crear.cshtml",
               "RelativeDocumentMoniker": "Comercializadora\\Views\\DetalleFactura\\Crear.cshtml",
               "ToolTip": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Views\\DetalleFactura\\Crear.cshtml",
               "RelativeToolTip": "Comercializadora\\Views\\DetalleFactura\\Crear.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-24T02:11:22.057Z",
               "EditorCaption": ""
@@ -154,90 +171,92 @@
               "RelativeDocumentMoniker": "Comercializadora\\Controllers\\DetalleFacturaController.cs",
               "ToolTip": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Controllers\\DetalleFacturaController.cs",
               "RelativeToolTip": "Comercializadora\\Controllers\\DetalleFacturaController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T02:09:26.222Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "DetalleFacturaService.cs",
               "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Service\\DetalleFacturaService.cs",
               "RelativeDocumentMoniker": "Comercializadora\\Service\\DetalleFacturaService.cs",
               "ToolTip": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Service\\DetalleFacturaService.cs",
               "RelativeToolTip": "Comercializadora\\Service\\DetalleFacturaService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBoAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T01:41:08.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 2,
               "Title": "IDetalleFacturaService.cs",
               "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Service\\IDetalleFacturaService.cs",
               "RelativeDocumentMoniker": "Comercializadora\\Service\\IDetalleFacturaService.cs",
               "ToolTip": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Service\\IDetalleFacturaService.cs",
               "RelativeToolTip": "Comercializadora\\Service\\IDetalleFacturaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T01:40:48.026Z"
+              "WhenOpened": "2026-02-24T01:40:48.026Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "DetalleFacturaRepository.cs",
               "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Repository\\DetalleFacturaRepository.cs",
               "RelativeDocumentMoniker": "Comercializadora\\Repository\\DetalleFacturaRepository.cs",
               "ToolTip": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Repository\\DetalleFacturaRepository.cs",
               "RelativeToolTip": "Comercializadora\\Repository\\DetalleFacturaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T01:39:17.554Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 8,
               "Title": "IDetalleFacturaRepository.cs",
               "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Repository\\IDetalleFacturaRepository.cs",
               "RelativeDocumentMoniker": "Comercializadora\\Repository\\IDetalleFacturaRepository.cs",
               "ToolTip": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Repository\\IDetalleFacturaRepository.cs",
               "RelativeToolTip": "Comercializadora\\Repository\\IDetalleFacturaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T01:38:18.575Z"
+              "WhenOpened": "2026-02-24T01:38:18.575Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Views\\Factura\\Index.cshtml",
               "RelativeDocumentMoniker": "Comercializadora\\Views\\Factura\\Index.cshtml",
               "ToolTip": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Views\\Factura\\Index.cshtml",
               "RelativeToolTip": "Comercializadora\\Views\\Factura\\Index.cshtml",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAswC0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwDQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-24T01:33:59.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 0,
               "Title": "FacturaController.cs",
               "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Controllers\\FacturaController.cs",
               "RelativeDocumentMoniker": "Comercializadora\\Controllers\\FacturaController.cs",
               "ToolTip": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Controllers\\FacturaController.cs",
               "RelativeToolTip": "Comercializadora\\Controllers\\FacturaController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwCcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwDIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T01:29:35.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "FacturaService.cs",
               "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Service\\FacturaService.cs",
               "RelativeDocumentMoniker": "Comercializadora\\Service\\FacturaService.cs",
@@ -245,12 +264,11 @@
               "RelativeToolTip": "Comercializadora\\Service\\FacturaService.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAYwCEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T01:24:16.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T01:24:16.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "IFacturaService.cs",
               "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Service\\IFacturaService.cs",
               "RelativeDocumentMoniker": "Comercializadora\\Service\\IFacturaService.cs",
@@ -258,12 +276,11 @@
               "RelativeToolTip": "Comercializadora\\Service\\IFacturaService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T01:24:04.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T01:24:04.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "FacturaRepository.cs",
               "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Repository\\FacturaRepository.cs",
               "RelativeDocumentMoniker": "Comercializadora\\Repository\\FacturaRepository.cs",
@@ -271,12 +288,11 @@
               "RelativeToolTip": "Comercializadora\\Repository\\FacturaRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T01:21:42.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T01:21:42.6Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "IFacturaRepository.cs",
               "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Repository\\IFacturaRepository.cs",
               "RelativeDocumentMoniker": "Comercializadora\\Repository\\IFacturaRepository.cs",
@@ -284,25 +300,24 @@
               "RelativeToolTip": "Comercializadora\\Repository\\IFacturaRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T01:20:43.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T01:20:43.178Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Program.cs",
               "RelativeDocumentMoniker": "Comercializadora\\Program.cs",
               "ToolTip": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Program.cs",
               "RelativeToolTip": "Comercializadora\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T01:10:56.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Comercializadora\\Controllers\\HomeController.cs",
@@ -310,12 +325,11 @@
               "RelativeToolTip": "Comercializadora\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T01:04:03.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T01:04:03.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "ProductoRepository.cs",
               "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Repository\\ProductoRepository.cs",
               "RelativeDocumentMoniker": "Comercializadora\\Repository\\ProductoRepository.cs",
@@ -328,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 11,
               "Title": "IProductoRepository.cs",
               "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Repository\\IProductoRepository.cs",
               "RelativeDocumentMoniker": "Comercializadora\\Repository\\IProductoRepository.cs",
@@ -341,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Comercializadora.csproj",
               "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Comercializadora.csproj",
               "RelativeDocumentMoniker": "Comercializadora\\Comercializadora.csproj",
@@ -353,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "ProductoService.cs",
               "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Service\\ProductoService.cs",
               "RelativeDocumentMoniker": "Comercializadora\\Service\\ProductoService.cs",
@@ -361,12 +375,11 @@
               "RelativeToolTip": "Comercializadora\\Service\\ProductoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T01:02:34.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T01:02:34.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "IProductoService.cs",
               "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Service\\IProductoService.cs",
               "RelativeDocumentMoniker": "Comercializadora\\Service\\IProductoService.cs",
@@ -374,12 +387,11 @@
               "RelativeToolTip": "Comercializadora\\Service\\IProductoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T01:02:22.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T01:02:22.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "ProductoController.cs",
               "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Controllers\\ProductoController.cs",
               "RelativeDocumentMoniker": "Comercializadora\\Controllers\\ProductoController.cs",
@@ -387,12 +399,11 @@
               "RelativeToolTip": "Comercializadora\\Controllers\\ProductoController.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAmwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T01:01:43.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T01:01:43.583Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 9,
               "Title": "DetalleFactura.cs",
               "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Models\\DetalleFactura.cs",
               "RelativeDocumentMoniker": "Comercializadora\\Models\\DetalleFactura.cs",
@@ -405,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "Comercializadora\\Models\\Producto.cs",
@@ -413,12 +424,11 @@
               "RelativeToolTip": "Comercializadora\\Models\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T01:00:37.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T01:00:37.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 13,
               "Title": "Factura.cs",
               "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Models\\Factura.cs",
               "RelativeDocumentMoniker": "Comercializadora\\Models\\Factura.cs",
@@ -431,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Views\\Producto\\Index.cshtml",
               "RelativeDocumentMoniker": "Comercializadora\\Views\\Producto\\Index.cshtml",
@@ -439,12 +449,11 @@
               "RelativeToolTip": "Comercializadora\\Views\\Producto\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-24T01:00:10.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T01:00:10.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "Crear.cshtml",
               "DocumentMoniker": "C:\\Projects\\Examen1ProgaAvanzada\\Comercializadora\\Comercializadora\\Views\\Producto\\Crear.cshtml",
               "RelativeDocumentMoniker": "Comercializadora\\Views\\Producto\\Crear.cshtml",
@@ -452,8 +461,7 @@
               "RelativeToolTip": "Comercializadora\\Views\\Producto\\Crear.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-24T00:59:49.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T00:59:49.764Z"
             }
           ]
         }

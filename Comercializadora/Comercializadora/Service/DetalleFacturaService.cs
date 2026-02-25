@@ -43,5 +43,10 @@ namespace Comercializadora.Service
         {
             return _detalleFacturaRepository.ObtenerDetalles();
         }
+
+        public List<DetalleFactura> ObtenerDetallesPorFactura(int facturaId)
+        {
+            return _detalleFacturaRepository.ObtenerDetallesPorFactura(facturaId);
+        }
     }
 }

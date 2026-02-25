@@ -7,5 +7,7 @@ namespace Comercializadora.Repository
         public void agregarDetalle(DetalleFactura detalle);
 
         public List<DetalleFactura> ObtenerDetalles(); 
+
+        List<DetalleFactura> ObtenerDetallesPorFactura(int facturaId);
     }
 }

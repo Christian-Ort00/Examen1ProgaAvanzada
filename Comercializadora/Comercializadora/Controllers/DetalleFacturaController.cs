@@ -37,7 +37,7 @@ namespace Comercializadora.Controllers
             if (ModelState.IsValid)
             {
                 _detalleFacturaService.AgregarDetalle(detalle);
-                return RedirectToAction("Index", "Factura");
+                return RedirectToAction("Crear", new { id = detalle.FacturaId });
             }
             ViewBag.Productos = _productoService.ObtenerProductos();
             return View(detalle);
